@@ -3,7 +3,7 @@
 </div>
 <p></p>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ffort_de_france1" alt="Twitter Badge"/>
+  <a href="https://t.me/fort_de_france1"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ffort_de_france1" alt="Еудупкфь Badge"/></a>
 </div>
 
 <h1 align="center">
