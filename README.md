@@ -13,6 +13,10 @@
 
 
 ### 👾 About Me :
+- 🦑 StartUp enjoyer
+- 🐍 Python developer
+- 🎯 Algorithm solver
+> Honesty in small things is not a small thing at all
 ___
 ### :hammer_and_wrench: Languages and Tools :
 <div>
